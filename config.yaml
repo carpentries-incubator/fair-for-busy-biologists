@@ -14,7 +14,7 @@ carpentry: 'incubator'
 title: 'FAIR for busy biologists' # FIXME
 
 # Date the lesson was created (YYYY-MM-DD, this is empty by default)
-created: ~ # FIXME
+created: 2024-03-22 # FIXME
 
 # Comma-separated list of keywords for the lesson
 keywords: 'FAIR, data, data-management, biomedical' # FIXME

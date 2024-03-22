@@ -2,27 +2,34 @@
 site: sandpaper::sandpaper_site
 ---
 
-The course is aimed at researchers in biological and biomedical sciences (PhD students, postdocs, technicians, etc...) who are interested in Open Science and data management.
-The course explains the FAIR (Findable, Accessible, Interoperable, Reusable) principles for data re-use, and how to practically apply FAIR principles throughout projects' life cycles. 
+The "FAIR for Busy Biologists" course caters to researchers in biological and biomedical fields (PhD students, postdocs, technicians and even PIs) interested in Open Science and data management.
+
+This course provides a concise introduction to the FAIR (Findable, Accessible, Interoperable, Reusable) data principles.  Participants will learn how to implement FAIR practices throughout their research projects, fostering data reuse and collaboration.
+
+
+Derived from the comprehensive "[FAIR in Bio Practice](https://carpentries-incubator.github.io/fair-bio-practice/)" program, it focuses on core topics, featuring concise content and targeted exercises to deliver essential knowledge in a shorter timeframe.
 
 ## Introduction
 
-Open Science is disruptive. It is changing how we do research and how society benefits from it.
+In today's scientific landscape, the demand for impactful research extends beyond traditional academic papers. Narrative CVs now require evidence of open practices, community building, and public datasets, underline the importance of good data management for the career progression. Join us for a two-session workshop designed specifically for busy biologists looking to enhance their productivity through effective data management practices.
 
- - But what does this mean in practice?
- - How can a biologist incorporate these principles in their daily workflow?
- - We will learn that becoming FAIR and following Open Science practices is a process.
+- Open Science and FAIR Principles: Understand the importance of Open Science and the FAIR (Findable, Accessible, Interoperable, Reusable) principles in modern research.
+- Metadata: Learn how to create and utilize metadata to enhance the discoverability and interpretability of your research data.
+- Tidy Data Tables: Explore techniques for organizing and structuring data tables to facilitate analysis and collaboration.
+- File Naming and Organization: Develop strategies for naming and organizing files to streamline workflows.
+- Jupyter Notebook: Discover the power of Jupyter Notebooks for reproducible research and effective data documentation.
+- Data Repositories: Explore options for storing and sharing research data in reputable data repositories.
 
-We will teach you how through planning and using a powerful set of tools, you can make your outputs ready for public sharing and reuse. 
 
-This hands-on 2-session workshop covers the basics of Open Science, FAIR and data management practices. 
-The workshop is a mix of lectures
-and hands-on lessons where you will use the approaches learned and will implement some of the discussed practices. 
+
+This hands-on 2-sessions (3.15 each) workshop covers the basics of Open Science, FAIR and data management practices. 
+
+The workshop is a mix of lectures and hands-on lessons where you will use the approaches learned and will implement some of the discussed practices. 
 
 ## Target Audience
 
 PhD students, postdocs, technicians, all who actively generate or analyse biological data, mostly experimental biologists. 
-This course can also be of interest to mathematical/biological/computational modelers, data analysts, project managers and advocates of FAIR/Open Data.
+This course can also be of interest to data analysts, project managers and advocates of FAIR/Open Data.
 
 #### Example of a learner profile:
 
