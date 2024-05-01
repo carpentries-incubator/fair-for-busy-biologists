@@ -35,13 +35,18 @@ This course can also be of interest to data analysts, project managers and advoc
 
 **Shania Wang (she/her) - junior postdoc**
 Shania is starting her first postdoctoral stay. She has recently obtained a PhD in Plant Biology and is very skilled in running plant molecular and physiology experiments. She recently published her first publication, but found the process of preparing all the figures and required information for the publisher super tedious and time consuming. As a postdoc, she must find an effective way to organise her own research project and the PhD students she is going to supervise...([read more](./profiles) ) 
-  
+
+
+::::::::::::::::::::::::::::::::::::: instructor  
+
 ## For instructors
 
-Course instructors should check the *instructors* folder which contains:
+Course instructors should check the [instructors](https://github.com/carpentries-incubator/fair-for-busy-biologists/tree/main/instructors) folder which contains:
 
 * notebooks with exercises to by copied to etherpad before the lessons
 * PowerPoint slides to be used during the delivery rather than the plain website text
+
+::::::
 
 :::::: callout
 ## Learning Objectives
