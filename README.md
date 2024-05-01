@@ -8,7 +8,7 @@ While our original lesson, [FAIR in bio practice](https://carpentries-incubator.
 
 Drawing from our insights and experiences, we have refined and condensed the content into a more accessible format. The updated version consists of two sessions, each lasting three hours, strategically focusing on essential skills and engaging exercises. This trimmed, streamlined approach aims to enhance the workshop experience and facilitate greater uptake among participants.
 
-We [(the UoE BioRDM team)](https://www.wiki.ed.ac.uk/display/RDMS) have identified that a gap exists in the knowledge of how to apply FAIR principles to real-life day-to-day biological research. An understanding of the principles of good data management is just as important as the practicalities. Researchers must become conversant with the Open Science ethos, the Reproducible Research movement, and the FAIR principles, to explain their new skills and to recognize or evaluate them in their peers.
+We [the UoE BioRDM team](https://www.wiki.ed.ac.uk/display/RDMS) have identified that a gap exists in the knowledge of how to apply FAIR principles to real-life day-to-day biological research. An understanding of the principles of good data management is just as important as the practicalities. Researchers must become conversant with the Open Science ethos, the Reproducible Research movement, and the FAIR principles, to explain their new skills and to recognize or evaluate them in their peers.
 
 The overall goals of the lesson are: 
 * To teach solid basic concepts in open science, FAIR guidelines and data management.
