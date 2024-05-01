@@ -43,6 +43,7 @@ Shania is starting her first postdoctoral stay. She has recently obtained a PhD 
 
 Course instructors should check the [instructors](https://github.com/carpentries-incubator/fair-for-busy-biologists/tree/main/instructors) folder which contains:
 
+* README with information how we run these workshops
 * notebooks with exercises to by copied to etherpad before the lessons
 * PowerPoint slides to be used during the delivery rather than the plain website text
 
