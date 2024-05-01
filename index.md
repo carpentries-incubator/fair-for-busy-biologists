@@ -15,7 +15,7 @@ Derived from the comprehensive "[FAIR in Bio Practice](https://carpentries-incub
 
 Course instructors should check the [instructors](https://github.com/carpentries-incubator/fair-for-busy-biologists/tree/main/instructors) folder which contains:
 
-* README with information how we run these workshops
+* [instructor-notes.md](https://github.com/carpentries-incubator/fair-for-busy-biologists/blob/main/instructors/instructor-notes.md) with information how we run these workshops
 * notebooks with exercises to by copied to etherpad before the lessons
 * PowerPoint slides to be used during the delivery rather than the plain website text
 
