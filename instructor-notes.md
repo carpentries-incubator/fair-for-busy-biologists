@@ -1,6 +1,4 @@
----
-title: 'Instructor Notes'
----
+
 
 ## General remarks
 
