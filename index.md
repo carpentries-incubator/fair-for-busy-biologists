@@ -9,6 +9,18 @@ This course provides a concise introduction to the FAIR (Findable, Accessible, I
 
 Derived from the comprehensive "[FAIR in Bio Practice](https://carpentries-incubator.github.io/fair-bio-practice/)" program, it focuses on core topics, featuring concise content and targeted exercises to deliver essential knowledge in a shorter timeframe.
 
+::::::::::::::::::::::::::::::::::::: instructor  
+
+## For instructors
+
+Course instructors should check the [instructors](https://github.com/carpentries-incubator/fair-for-busy-biologists/tree/main/instructors) folder which contains:
+
+* README with information how we run these workshops
+* notebooks with exercises to by copied to etherpad before the lessons
+* PowerPoint slides to be used during the delivery rather than the plain website text
+
+::::::
+
 ## Introduction
 
 In today's scientific landscape, the demand for impactful research extends beyond traditional academic papers. Narrative CVs now require evidence of open practices, community building, and public datasets, underline the importance of good data management for the career progression. Join us for a two-session workshop designed specifically for busy biologists looking to enhance their productivity through effective data management practices.
@@ -37,17 +49,7 @@ This course can also be of interest to data analysts, project managers and advoc
 Shania is starting her first postdoctoral stay. She has recently obtained a PhD in Plant Biology and is very skilled in running plant molecular and physiology experiments. She recently published her first publication, but found the process of preparing all the figures and required information for the publisher super tedious and time consuming. As a postdoc, she must find an effective way to organise her own research project and the PhD students she is going to supervise...([read more](./profiles) ) 
 
 
-::::::::::::::::::::::::::::::::::::: instructor  
 
-## For instructors
-
-Course instructors should check the [instructors](https://github.com/carpentries-incubator/fair-for-busy-biologists/tree/main/instructors) folder which contains:
-
-* README with information how we run these workshops
-* notebooks with exercises to by copied to etherpad before the lessons
-* PowerPoint slides to be used during the delivery rather than the plain website text
-
-::::::
 
 :::::: callout
 ## Learning Objectives
