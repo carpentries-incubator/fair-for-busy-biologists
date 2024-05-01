@@ -1,0 +1,30 @@
+"Clock modulation of starch, pigments and nitrogen"			Timet Project									
+Sosa M; Pintos A	Study 2019-12-05 to 2020-01-05		Period analysed in BioDare									
+If not indicated differently metabolites reported per g of fresh weight of 6-week-old plant leaf rosettes												
+						"Sucrose
+(mg/g)"	Chloro.					
+Sample	Strain	Genotype	Media	"Biomas
+"	Starch mg/g FW				Cell	Sample	Period	Phase
+A1	D62	phyB-9	GM-agar	0.1206g	6	1.2	0.0018 g/g		A1	WT SD	24.2	8.1
+A2	D64	phyB-9	GM-agar	0.1275g	6.5	1.1	0.0016		A2	phyA SD	23.5	7.2
+A3	D1	phyA-211	GM-agar	0.2872 g	5	1	0.0014		A3	phyB SD	24.5	7.7
+A4	B12	elf4-101	GM-agar	0.1524g	3	0.6	0.002		A4	elf4 SD	27.1	9
+A5	B33	toc1-2	GM-agar	0.2035 g	0	1.1	0.0017		A5	toc1 SD	30.1	11
+B1	D62	phyB-9	GM-agar +SUC	0.2104	6.2	1.3	0.0021		B1	WT LD	24.5	5
+B2	D64	phyB-9	GM-agar +SUC	0.2435	7	1.2	0.0019		B2	phyA LD	24.1	6.1
+B3	D1	phyA-211	GM-agar +SUC	0.3213g	5.8	1.1	error		B3	phyB LD	25	5.7
+B4	B12	elf4-101	GM-agar +SUC	0.2135g	4.9	0.8	0.0022		B4	elf4	-1	-1
+B5	B33	toc1-2	GM-agar +SUC	0.292 g	5.9	0.9	0.0021		B5	toc1 LD	31.1	7
+C1	D62	phyB	short+S	130mg	6	1.2	0.0018					
+C2	D64	phyB	short+S	141.5 mg	6.5	1.1	0.0016					
+C3	D1	phyA	short+S	288 mg	5	1	0.0014					
+C4	B12	elf4	short+S	152mg	3	0.6	0.002					
+C5	B33	toc1	short+S	204mg		1.1	0.0017					
+D1	D62	phyB	LD -S	135mg	6	1.2	0.001					
+D2	D1	phyA	LD -S	695 mg								
+D3	D64	phyB	LD -S	141mg	7	1.1	0.0021					
+D4	B12	elf4	LD -S	1425mg	3.1	0.6	0.003					
+D5	B33	toc1	LD -S	204mg	5	1.1	0.0011					
+ 	short days 6 h light											
+ 	long days 18 h light			Updated	21-08-11							
+												
